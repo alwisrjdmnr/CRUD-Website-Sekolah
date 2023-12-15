@@ -1,0 +1,13 @@
+Login CRUD Kelompok 4
+
+Username : Kelompok 4
+Password : user
+
+Ket :
+Tampilan setelah masuk : 	- dasbord 		(berisi anggtota kelompok)
+		       		- CRUD Program Studi 	(Dibuat Oleh Ahmad Wildan Musthofa (202151152))
+		       		- CRUD Galeri 		(Dibuat Oleh Sofiyan Kusdariyanto (202151156))
+		      		- CRUD Informasi 	(Dibuat Oleh Nor Milatul Khusna (202151170))
+				- CRUD Koperasi 	(Dibuat Oleh Muhammad Ulil Ilmi Maulana (202151144))
+		       		- PMB -> - Info PMB 	(Dibuat Oleh Sirojuddin Munir Alwi (202151177))
+		       			 - CRUD PMB 	(Dibuat Oleh Sirojuddin Munir Alwi (202151177))
